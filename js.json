@@ -1,13 +1,18 @@
 {
-  "name": "Press Start 2P",
-  "postScriptName": "PressStart2P-Regular",
-  "fontFamily": "'Press Start 2P', cursive",
-  "variants": [
+  "version": 1, 
+  "fonts": [
     {
-      "weight": 400,
-      "style": "normal",
-      "url": "https://fonts.gstatic.com/s/pressstart2p/v16/e3t4euO8T-267oIAQAu6jDQyK3nYivNm4I81PZQ.woff2",
-      "format": "woff2"
+      "name": "Press Start 2P",
+      "postScriptName": "PressStart2P-Regular",
+      "fontFamily": "'Press Start 2P', cursive",
+      "variants": [
+        {
+          "weight": 400,
+          "style": "normal",
+          "url": "https://fonts.gstatic.com/s/pressstart2p/v16/e3t4euO8T-267oIAQAu6jDQyK3nYivNm4I81PZQ.woff2",
+          "format": "woff2"
+        }
+      ]
     }
   ]
 }
